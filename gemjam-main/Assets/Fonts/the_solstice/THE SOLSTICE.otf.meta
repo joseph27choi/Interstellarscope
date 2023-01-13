@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 5288d51ffce7c584181e259365d07ed7
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - THE SOLSTICE
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: a01a76a3bf40a5c4aa8128a2964dcca7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
